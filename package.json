@@ -1,0 +1,11 @@
+{
+  "name": "Function Test",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A spike project for cucumber node",
+  "repository": "git@github.com:wrasdf/cucumber-webdriver.git",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "latest"
+  }
+}
