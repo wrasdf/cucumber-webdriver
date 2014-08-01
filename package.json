@@ -1,11 +1,16 @@
 {
-  "name": "Function Test",
+  "name": "function-test",
   "private": true,
   "version": "0.0.1",
   "description": "A spike project for cucumber node",
   "repository": "git@github.com:wrasdf/cucumber-webdriver.git",
   "license": "MIT",
+  "author": "Kerry",
   "devDependencies": {
-    "cucumber": "latest"
+    "cucumber": "latest",
+    "expect.js": "^0.3.1",
+    "jasmine-node": "^1.14.5",
+    "mocha": "^1.21.3",
+    "should": "^4.0.4"
   }
 }
