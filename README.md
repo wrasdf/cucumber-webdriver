@@ -5,9 +5,13 @@ This is a spec for the function test with jenkins.
 Technologies:
   NodeJS
   Cucumber
-  WebDriverJS | ZombieJS | CasperJS
-  Phamtomejs
+  WebDriverJS | CasperJS
+  PhantomJs | ZombieJs
   Jenkins
+
+Notes:
+  PhantomJs should be installed global. --> WebDriverJs will not found the phantomJS
+
   
 // Todo list
   1. Cucumber js write a feater file & works fine
